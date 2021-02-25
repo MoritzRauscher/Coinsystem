@@ -1,0 +1,14 @@
+name: Coinsystem
+version: ${project.version}
+main: de.dermitdehoar.coinsystem.Coinsystem
+api-version: 1.16
+authors: [ dermitdehoar ]
+description: Meine Testaufgabe
+
+commands:
+  bank:
+  addcoins:
+  createBankAccount:
+  removeBankAccount:
+  transferCoins:
+    description: fromAccname coins toPlayername toAccname
